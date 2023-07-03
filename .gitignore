@@ -1,11 +1,3 @@
-# Directory
-node_modules
-public
-
-# Files
-Thumbs.db
-.DS_Store
-
 # VS Code
 .vscode
 .history
